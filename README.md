@@ -233,4 +233,4 @@ Nearby Share is available as the **complete free version** with all features and
 Ready to share files effortlessly? **Download Nearby Share now and experience seamless file sharing between your devices!**
 
 ---
-**Last updated:** 2026-09-19 14:06:43 UTC
+**Last updated:** 2026-09-19 17:40:49 UTC
